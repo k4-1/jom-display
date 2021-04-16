@@ -1,10 +1,7 @@
 /*******************************************************************************
 * LCM1602-14 LCD Micro:Bit extension
 *
-* Company: Cytron Technologies Sdn Bhd
-* Website: http://www.cytron.io
 * Author: Arif Haikal
-* Email:   support@cytron.io
 *******************************************************************************/
 /**
 * Board initialization and helper function.
