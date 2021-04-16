@@ -50,8 +50,8 @@ const FOURBITMODE = 0X00;
 /**
 * LCD_i2c blocks
 */
-//% weight=100 color=#326fa8 icon="\uf108"
-namespace LCD_i2c 
+//% weight=100 color=#c90000 icon="\uf2a1"
+namespace LCDi2c 
 {
    let addrs: number
  
